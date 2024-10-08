@@ -6,11 +6,13 @@
 - 아두이노 실습 환경 설정  
 - LCD 연결을 위한 타이머 예제 실습  
 
-**👤 진행자**: 서지원
+**👤 진행자**: 서지완
 
 **🔗 진행 자료**: [Google Slides](https://docs.google.com/presentation/d/1BS22aGU90ziqRXMrquRfnd2iDhrrVvfs4ujPUDwPXck/edit#slide=id.g30776e6607a_0_27)
 
-## 참여자 및 활동 결과- **참여자 1**: 김수연  
+## 참여자 및 활동 결과
+
+- **참여자 1**: 김수윤  
   - **활동 결과**: 
 
 - **참여자 2**: 박준현  
