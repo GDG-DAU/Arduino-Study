@@ -3,7 +3,7 @@
 - [학습내용] : 아두이노 이론 학습, 아두이노 실습 환경 구성, LCD를 연결하는 타이머 예제 실습 진행
   
    - [진행자]: 서지완
-      - [진행 자료] : (https://docs.google.com/presentation/d/1BS22aGU90ziqRXMrquRfnd2iDhrrVvfs4ujPUDwPXck/edit#slide=id.g30776e6607a_0_27)
+      - [진행 자료](https://docs.google.com/presentation/d/1BS22aGU90ziqRXMrquRfnd2iDhrrVvfs4ujPUDwPXck/edit#slide=id.g30776e6607a_0_27)
    
    - [참가자 1]: 김수윤 
       - [활동 결과] : 
