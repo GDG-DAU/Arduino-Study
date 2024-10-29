@@ -8,7 +8,7 @@
 
 **👤 진행자**: 서지완
 
-**🔗 진행 자료**: 
+**🔗 진행 자료**: https://docs.google.com/presentation/d/1lMGuA_AcIPnddhlvkw_0gEd9UMkqu812Me5dVn-K4WQ/edit?usp=sharing
 
 ## 참여자 및 활동 결과
 
